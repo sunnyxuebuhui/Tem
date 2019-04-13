@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>18521338-0A38-420E-A6C0-AEDC8815CD35</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>18521338-0A38-420E-A6C0-AEDC8815CD35.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TemRNApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TemRNApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project TemRNApp with scheme TemRNApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>575876364.73884702</real>
+			<key>timeStoppedRecording</key>
+			<real>575876482.04811096</real>
+			<key>title</key>
+			<string>Building project TemRNApp with scheme TemRNApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>18521338-0A38-420E-A6C0-AEDC8815CD35</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
